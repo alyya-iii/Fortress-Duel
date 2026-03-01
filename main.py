@@ -36,7 +36,7 @@ game_duration = 60000
 font = pygame.font.SysFont(None, 50)
 font2 = pygame.font.SysFont(None, 36)
 
-#choose game mode - single or multi
+#choose game mode-single or multi
 def mode():
     single_button = pygame.Rect(WIDTH // 2 - 150, HEIGHT // 2 - 80, 300, 60)
     multi_button = pygame.Rect(WIDTH // 2 - 150, HEIGHT // 2 + 20, 300, 60)
