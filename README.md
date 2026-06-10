@@ -26,7 +26,12 @@ Different backgrounds for all seasons  <br/>
 
 ## How to Run
 1. Install Python (if not installed)
-2. Install pygame:
-   pip install pygame
-3. Open the project in PyCharm or VS Code
-4. Run main.py
+2. Install pygame PyCharm or VS Code
+```bash
+pip install pygame
+```
+3. Clone the repository
+```bash
+git clone https://github.com/alyya-iii/Fortress-Duel.git
+```
+5. Run main.py
